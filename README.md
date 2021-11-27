@@ -10,19 +10,19 @@ I've never made App myself using Android Studio(Java), Nodejs.
 
 I don't think it'll be of good quality, but it's fun!
 
-#### Project name :  Schedule Alarm
+### Project name :  Schedule Alarm
 
-#### Programming Language I use : Android Studio, Nodejs , Mysql
+### Programming Language I use : Android Studio, Nodejs , Mysql
 
-#### Content 
+### Content 
 
-##### Scenario before making it
+#### Scenario before making it
 
 It'll take 2 days.
 It's only for experience. 
 So I'm going to make it simple.
 
-#### Implementation
+### Implementation
 
 * Simple schedule list with CRUD (create, read, update, delete)
 * Use Nodejs Web Server for storing data (not using sqlite)
