@@ -27,4 +27,11 @@ So I'm going to make it simple.
 * Simple schedule list with CRUD (create, read, update, delete)
 * Use Nodejs Web Server for storing data (not using sqlite)
 
+### Review
+
+It wasn't as easy as I thought.
+I think I have to implement more data-safe codes.
+Specifically, Exception handling, boolean type in json and store boolean to tinyint in mysql.
+
+This is my first lightning project. It is so helpful to apply for any programming concepts with experience.
 
